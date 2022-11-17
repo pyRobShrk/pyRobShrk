@@ -6,7 +6,7 @@ In 2015, while learning python, I did enough searching to participate in the [Go
 I enjoyed the challenge, but it didn't result in an interview, despite being contacted by their recruiters.
 In order to continue learning with coding challenges, I have participated in the [Advent of Code](https://adventofcode.com/).
 Much of my AoC work was run in the browser with python through pyodide. I did all but 2019 in notebooks on [starboard.gg/robsh](https://starboard.gg/robsh).
-2019 is in [this repository](https://github.com/pyRobShrk/aoc2019).
+2019 (IntCode) was my first attempt at AoC, and can be found in [this repository](https://github.com/pyRobShrk/aoc2019). I have a working IntCode VM in python, but I also have one in VBA/Excel so I could do maze problems using cells.
 
 Most of my interesting code is at on my [Gist](https://gist.github.com/pyRobShrk/).
 A [simple USGS NationalMap 10m query](https://gist.github.com/pyRobShrk/8df3a3c422fb1c88882a5e41b284349f) at least partially inspired the [code at pygeodesy](https://github.com/mrJean1/PyGeodesy/blob/master/pygeodesy/elevations.py).
