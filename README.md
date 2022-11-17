@@ -3,7 +3,7 @@ Hi, I'm Rob.
 I'm not a real programmer.
 I'm a civil engineer with a coding problem.
 In 2015, while learning python, I did enough searching to participate in the [Google Foobar](https://foobar.withgoogle.com/) challenge.
-I enjoyed the challenge, but it didn't result in an interview, despite being contacted by their recruiters.
+I enjoyed the challenge, but it didn't result in an interview, despite being contacted by Google's recruiters twice.
 In order to continue learning with coding challenges, I have participated in the [Advent of Code](https://adventofcode.com/).
 Much of my AoC work was run in the browser with python through pyodide. I did all but 2019 in notebooks on [starboard.gg/robsh](https://starboard.gg/robsh).
 2019 (IntCode) was my first live attempt at AoC, and can be found in [this repository](https://github.com/pyRobShrk/aoc2019).
